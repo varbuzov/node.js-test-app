@@ -1,4 +1,4 @@
-// Vercel app url: https://web322-lab1-386o2np2c-varbuzovs-projects.vercel.app/
+// Vercel app url: https://web322-lab1.vercel.app/
 
 const http = require('http');
 
